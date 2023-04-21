@@ -1,0 +1,7 @@
+#body {background-color: gold;}
+.card-img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 200px;
+ }
